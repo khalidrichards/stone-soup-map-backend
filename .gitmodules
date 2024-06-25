@@ -1,0 +1,3 @@
+[submodule "stone-soup-protos"]
+	path = stone-soup-protos
+	url = git@github.com:khalidrichards/stone-soup-protos.git
